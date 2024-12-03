@@ -1,0 +1,22 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "prctice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesa1313/practice-_backend.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "jesa kodiyatarv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesa1313/practice-_backend/issues"
+  },
+  "homepage": "https://github.com/jesa1313/practice-_backend#readme"
+}
